@@ -7,7 +7,7 @@ if (!isset($_SERVER['HTTP_REFERER']) || strpos($_SERVER['HTTP_REFERER'], $allowe
 }
 
 $name = $_GET['name'] ?? '';
-$playlist = file(__DIR__ . '/personal-channels.m3u');
+$playlist = file(__DIR__ . '/everything.m3u');
 
 $output = [];
 for ($i = 0; $i < count($playlist); $i++) {
