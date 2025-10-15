@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="icon" href="/iptv/images/Favicons/favicon.ico" type="image/x-icon">
+    <title>Streaming Player</title>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <style>
+        body {
+            background-color: black;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        video {
+            width: 100%;
+            max-width: 80%;
+            border: 3px solid #471396;
+            border-radius: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<video id="video" controls autoplay></video>
+
+<script>
+    const params = new URLSearchParams(window.location.search);
+    const url = params.get('url');
+
+    if (Hls.isSupported()) {
+        const video = document.getElementById('video');
+        const hls = new Hls();
+        hls.loadSource(url);
+        hls.attachMedia(video);
+        hls.on(Hls.Events.ERROR, function (event, data) {
+            console.error("HLS error", data);
+        });
+    } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+        video.src = url;
+    } else {
+        document.body.innerHTML = "<h2 style='color:white;'>Browser does not support HLS playback.</h2>";
+    }
+</script>
+
+</body>
+</html>

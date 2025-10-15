@@ -1,0 +1,3 @@
+#EXTINF:0,Outdoor Channel
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
