@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="af">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="icon" href="/login_system/revamp/Images/favicon.ico" type="image/x-icon">
+    <title>Digi-Intel</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #2c2c2c; /* Dark background */
+            color: #000f1e; /* Light text color */
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #000f1e;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+        h1 {
+            margin: 0;
+        }
+        section {
+            padding: 20px;
+        }
+        a {
+            color: #a7d3ff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+			color: red
+        }
+        .login-form {
+            max-width: 300px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #444; /* Slightly lighter background for the login form */
+            color: #fff; /* Light text color for the login form */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+        }
+        .login-form input {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            background-color: #333; /* Dark input background */
+            color: #fff; /* Light text color for inputs */
+            border: 1px solid #555; /* Dark border */
+        }
+        .login-form button {
+            width: 100%;
+            padding: 10px;
+            background-color: #555; /* Dark button background */
+            color: #fff; /* Light button text */
+            border: none;
+            cursor: pointer;
+        }
+        .login-form button:hover {
+            background-color: #666; /* Slightly lighter on hover */
+        }
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+<header>
+    <img src="VIP.png" alt="VIP.png" style="max-width: 15%; height: auto;">
+    <h1>DIE BAAS SE PLEK</h1>
+</header>
+
+<section>
+	<h2><a href="/">Home Page</a></h2>
+    <h2><a href="loginpage.html">Back to Login</a></h2>
+    <h3><a href="/uploaded/upload.html" target="_blank">Upload </a></h3>
+    <h3><a href="/uploaded/uploads/" target="_blank" style="color:red;">Uploaded Files </a></h3>
+<section>
+    
+    <div id="content-section" class="">
+		<p><a href="/files" target="_blank">Files (Site)</a><p>
+        <!--<p><a href="https://drive.proton.me/urls/P7QE13DF1C#zG5OCrwFapgA" target="_blank">Programs</a></p>-->
+        <p><a href="https://drive.proton.me/urls/5E455A62AW#nSf0TLahHCIg" target="_blank">Windows</a></p>
+    </div>
+</section>
+
+<footer>
+	<p>&copy; Digi-Intel. STILL <em>PERSONAL</em> WEBSITE.</p>
+</footer>
+
+<script src="https://demo.yubico.com/js/u2f-api.js"></script>
+<script>
+    function startYubiKeyAuth(section) {
+        fetch('/authenticate', { method: 'POST' })
+            .then(response => response.json())
+            .then(request => {
+                u2f.sign(request[0], function(data) {
+                    fetch('/complete_authenticate', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify(data)
+                    })
+                    .then(response => response.text())
+                    .then(result => {
+                        if (result.includes('successful')) {
+                            if (section === 'main') {
+                                document.getElementById('login-section').classList.add('hidden');
+                                document.getElementById('content-section').classList.remove('hidden');
+                            } else if (section === 'charles') {
+                                document.getElementById('charles-login-section').classList.add('hidden');
+                                document.getElementById('charles-content-section').classList.remove('hidden');
+                            }
+                        } else {
+                            alert('Authentication failed');
+                        }
+                    });
+                });
+            });
+    }
+</script>
+
+</body>
+</html>

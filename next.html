@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TECHTUNE - Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #2c2c2c; /* Dark background */
+            color: #e0e0e0; /* Light text color */
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: blue;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+        h1 {
+            margin: 0;
+        }
+        section {
+            padding: 20px;
+        }
+        a {
+            color: red;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .login-form {
+            max-width: 300px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #444; /* Slightly lighter background for the login form */
+            color: #fff; /* Light text color for the login form */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+        }
+        .login-form input {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            background-color: #333; /* Dark input background */
+            color: #fff; /* Light text color for inputs */
+            border: 1px solid #555; /* Dark border */
+        }
+        .login-form button {
+            width: 100%;
+            padding: 10px;
+            background-color: #555; /* Dark button background */
+            color: #fff; /* Light button text */
+            border: none;
+            cursor: pointer;
+        }
+        .login-form button:hover {
+            background-color: #666; /* Slightly lighter on hover */
+        }
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <img src="logo2.jpg" alt="logo2.jpg" style="max-width: 25%; height: auto;">
+    <h1>    </h1>
+</header>
+
+
+<section>
+    <h2><a href="index.html">Go Back</a></h2>
+    
+    <div id="content-section" class="">
+        <p><a href="/files/PDFZilla.3.9.3.1.Portable.rar">PDFZilla Zip</a></p>
+        <p><a href="https://drive.proton.me/urls/71ZNYPTQZ4#8PFNJd1nEIqg">Libre Office</a></p>
+        <p><a href="/files/gpg4win-4.3.1.exe">Gp4Win</a></p>
+        <P><a href="/files/nirsoft_package_enc_1.23.70.zip">Nirsoft Zip</a></P>
+        <p><a href="https://www.dropbox.com/scl/fo/g918qoioclrxudh7emxa3/AB_NWNouJRRVMm18dum3Tss?rlkey=n8ue2jtm53qnbj9q6yv2zrfim&dl=0">Bat Files</a></p>
+	<p><a href="/files/PCmaintenance.ps1">Shell Script</a></p>
+        <p><a href="/files/WinRAR 5.20 Final (x86-x64) Incl. Key [ATOM].zip">WinRAR zip</a></p>
+        <p><a href="/Rockness/RockNESX.exe">Tv Games</a> <a href="/Rockness/NES ROMs.zip">Roms Download</a></p>
+    </div>
+</section>
+
+<footer>
+    <p>&copy; TECHTUNE. STILL PERSONAL WEBSITE.</p>
+</footer>
+
+<script>
+    // Predefined credentials
+    const RANDOM_USERNAME = 'User';
+    const RANDOM_PASSWORD = 'UserPass123';
+
+    function loginRandom() {
+        var username = document.getElementById('Random-username').value;
+        var password = document.getElementById('Random-password').value;
+
+        if (username === RANDOM_USERNAME && password === RANDOM_PASSWORD) {
+            document.getElementById('Random-login-section').classList.add('hidden');
+            document.getElementById('Random-content-section').classList.remove('hidden');
+        } else {
+            alert('Incorrect username or password for Random link');
+        }
+    }
+</script>
+
+</body>
+</html>

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digi Intel - Login</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000f1e;
+            color: #e0e0e0;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #000f1e;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+        section {
+            padding: 20px;
+        }
+        .login-form {
+            max-width: 300px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: black;
+            color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+        }
+        .login-form input {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            background-color: #333;
+            color: #fff;
+            border: 1px solid #555;
+        }
+        .login-form button {
+            width: 100%;
+            padding: 10px;
+            background-color: #555;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+        }
+        .login-form button:hover {
+            background-color: #666;
+        }
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+<body><header><img src="LOGO.png" alt="LOGO.png" style="max-width: 20%; height: auto;"><h1>LOGIN PAGE</h1></header>
+    <section>
+        <h2><a href="/login_system/main.html" style="color:#93c9ff;">Home Page</a></h2>
+        <div class="login-form">
+            <h2>Random </h2>
+            <input type="text" id="username1" placeholder="Username">
+            <input type="password" id="password" placeholder="Password">
+            <button onclick="login('username1', 'password', 'next.html')">Login</button>
+        </div>
+        <div class="login-form">
+            <h2><a style="color: gold;">VIP YubiKey<a/></h2>
+            <input type="text" id="username2" placeholder="Username">
+            <input type="text" id="yubikey" placeholder="YubiKey OTP">
+            <button onclick="login('username2', 'yubikey', 'file3.html')">Login</button>
+        </div>
+    </section>
+    <script>
+        function login(usernameId, credentialId, redirectUrl) {
+            var username = document.getElementById(usernameId).value;
+            var credential = document.getElementById(credentialId).value;
+
+            var xhr = new XMLHttpRequest();
+            xhr.open("POST", "authenticate.php", true);
+            xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState == 4 && xhr.status == 200) {
+                    if (xhr.responseText == "success") {
+                        window.location.href = redirectUrl; // Redirect to the specified URL on success
+                    } else {
+                        alert('Authentication failed: ' + xhr.responseText);
+                    }
+                }
+            };
+            xhr.send("username=" + encodeURIComponent(username) + "&credential=" + encodeURIComponent(credential) + "&type=" + encodeURIComponent(credentialId));
+        }
+    </script>
+</body>
+</html>
