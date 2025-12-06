@@ -187,7 +187,7 @@ for ($i = 0; $i < count($lines); $i++) {
 	<header>
         <div class='hero'>
 	    <div text-align: left; class='hero-text'>
-            <h1 class='txt2'><u>The links are most working, if live does not work, download link and play in VLC and will play the link.</u></h1>
+            <h1 class='txt2' style='color:black'><u>The links are most working, if live does not work, download link and play in VLC and will play the link.</u></h1>
             <h1 class='txt1'>Internet TV</h1>
             <p class='txt3' style='color:white'>Download link channel in another player of your choice. eg. <a target='_blank' href='https://www.videolan.org/vlc/'>VLC</a></p>
 	        <p class='txt3'; style='color:white'>Send suggestions to: <a href='mailto:info@007tech.co.za?subject=Suggestion'>Email</a></p>
