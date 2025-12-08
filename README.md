@@ -17,4 +17,4 @@
 
 ### [laaste load wat kak lank is](https://www.youtube.com/watch?v=Q9olZeYk270)
 - Load die video vir a rukie.
-<iframe width="1275" height="717" src="https://www.youtube.com/embed/qxOkaU6RVz4" title="Loading Screen Effect" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[<iframe width="1275" height="717" src="https://www.youtube.com/embed/qxOkaU6RVz4" title="Loading Screen Effect" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]
