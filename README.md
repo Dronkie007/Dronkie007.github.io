@@ -1,15 +1,20 @@
 # This is for personal learning.
 ## Contents of this training are as follows
-## [main page](https://007tech.co.za)
+## [Main page](https://007tech.co.za)
 - This is the most recent version of my page
 - This is where the freshes code go
+- En probeer om website te leer
+- IPTV links wat ek change en probeer reg werk.
 
-### [second page](https://007tech.co.za/login_system/main.html) 
+### [Second page](https://007tech.co.za/login_system/main.html) 
 - This is where I test links
 - Do random stuff
 - This site changes often and at anytime
+ 
+### [Third page](https://007tech.co.za/iptv/m3u/personal/index_personal.php)
+- persoonlik links wat kan werk
+- en onder om ander webpage te kyk
 
-### [Third page](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Z2dXF2c24zeDA5MGNrc3drZmJoZzZ6bTk5dW54bGh4MGF2cjNmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/64RJbQW4KlFdNMKemt/giphy.gif)
-- yup
-
+### [laaste load wat kak lank is](https://www.youtube.com/watch?v=Q9olZeYk270)
+- Load die video vir a rukie.
 <iframe width="1275" height="717" src="https://www.youtube.com/embed/qxOkaU6RVz4" title="Loading Screen Effect" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
