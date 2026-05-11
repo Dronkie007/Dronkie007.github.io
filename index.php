@@ -35,7 +35,7 @@ for ($i = 0; $i < count($lines); $i++) {
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link rel="icon" href="images/Favicons/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/iptv/images/Favicons/favicon.ico" type="image/x-icon">
    <!-- <title>Daar is alweer niks op TV</title> -->
 </head>
 <style>
@@ -160,7 +160,7 @@ for ($i = 0; $i < count($lines); $i++) {
 }
 
 .hero {
-    background: url('images/background3.png') no-repeat center center;
+    background: url('/iptv/images/background3.png') no-repeat center center;
     background-size: cover;
     height: 600px; /* adjust as needed */
     position: relative;
@@ -226,7 +226,7 @@ for ($i = 0; $i < count($lines); $i++) {
         echo "<div class='buttons'>";
         echo "<a href='generate_m3u.php?name=" . urlencode($name) . "' class='btn'><img src=/iptv/images/VLCIcon.jpeg width='50' height='40'> Play in VLC</a>";
         // echo "<a href='generate_m3u.php?name=" . urlencode($name) . "' class='btn'><img src=images/download_icon.jpg width='100' height='40'></a>";
-        echo "<a href='embedplayer.html?url=" . urlencode($url) . "' class='btn' target='_blank'><img src=images/streaming_icon.jpg width='100' height='40'></a>";
+        echo "<a href='/iptv/embedplayer.html?url=" . urlencode($url) . "' class='btn' target='_blank'><img src=images/streaming_icon.jpg width='100' height='40'></a>";
         echo "</div></div>";
 
         $i++; // skip to next pair

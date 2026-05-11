@@ -1,6 +1,6 @@
 # This is for personal learning.
 ## Contents of this training are as follows
-## [Main page](https://https://verniet.free.nf/iptv/index.php)
+## [Main page](https://https://verniet.free.nf/index.php)
 - This is the most recent version of my page
 - This is where the freshes code go
 - En probeer om website te leer
