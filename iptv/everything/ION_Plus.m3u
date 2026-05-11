@@ -1,0 +1,3 @@
+#EXTINF:-1 group-title="Entertainment" tvg-id="ION.Plus.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ion-plus-us.png" tvg-name="ION Plus",ION Plus
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/ION_Plus/index.m3u8

@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="KTVUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="General",FOX 2 San Francisco CA (KTVU) (720p)
+#EXTVLCOPT:network-caching=1000
+https://livetv-fa.tubi.video/ktvu/index.m3u8

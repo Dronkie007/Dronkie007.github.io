@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="KMIZDT2.us" tvg-logo="" group-title="Entertainment",KMIZ-DT2 (720p)
+#EXTVLCOPT:network-caching=1000
+https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8

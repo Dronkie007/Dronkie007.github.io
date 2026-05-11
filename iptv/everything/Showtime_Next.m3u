@@ -1,0 +1,3 @@
+#EXTINF:-1 group-title="Movies" tvg-id="Showtime.Next.HD.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" tvg-name="Showtime Next",Showtime Next
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/SHOWTIME_NEXT/index.m3u8

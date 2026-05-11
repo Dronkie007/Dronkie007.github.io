@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="FCTV.us" tvg-logo="https://i.imgur.com/N5Canf3.png" group-title="General",Fort Collins Cable TV (FCTV) (Fort Collins CO) (1080p)
+#EXTVLCOPT:network-caching=1000
+https://reflect-vod-fcgov.cablecast.tv/live-9/live/stream-1/live.m3u8

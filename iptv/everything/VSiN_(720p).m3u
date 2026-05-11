@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="VSiN.us",VSiN (720p)
+#EXTVLCOPT:network-caching=1000
+https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8

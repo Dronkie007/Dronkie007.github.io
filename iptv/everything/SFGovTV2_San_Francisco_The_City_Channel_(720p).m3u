@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="SFGovTV2.us" tvg-logo="https://i.imgur.com/SOk5m5B.png" group-title="General",SFGovTV2 San Francisco The City Channel (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_050/playlist.m3u8

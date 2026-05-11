@@ -1,0 +1,3 @@
+#EXTINF:-1 group-title="Documentary" tvg-id="Love.Nature.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/love-nature-4k-ca.png" tvg-name="LOVE NATURE",LOVE NATURE
+#EXTVLCOPT:network-caching=1000
+http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8

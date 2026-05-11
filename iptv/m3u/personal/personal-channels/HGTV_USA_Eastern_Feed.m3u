@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV USA Eastern Feed" group-title="Live",HGTV USA Eastern Feed
+#EXTVLCOPT:network-caching=1000
+https://tvpass.org/live/HGTVEast/sd

@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="TUDN.us@SD",TUDN [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8

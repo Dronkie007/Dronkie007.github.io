@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="beINSportsUSA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/512px-Bein_Sports_Logo.svg.png" group-title="Sports",beIN Sports USA
+#EXTVLCOPT:network-caching=1000
+http://fl7.moveonjoy.com/BEIN_SPORTS/index.m3u8

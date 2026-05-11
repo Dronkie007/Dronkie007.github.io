@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="EstrellaNews.us" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="News",Estrella News (1080p)
+#EXTVLCOPT:network-caching=1000
+https://estrella-news-oando.amagi.tv/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="ABC.us",ABC
+#EXTVLCOPT:network-caching=1000
+http://41.205.93.154/ABC/index.m3u8

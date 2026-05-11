@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us",National Geographic Latin America
+#EXTVLCOPT:network-caching=1000
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8

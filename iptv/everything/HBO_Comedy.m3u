@@ -1,0 +1,3 @@
+#EXTINF:-1 group-title="Movies" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" tvg-name="HBO Comedy",HBO Comedy
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/HBO_COMEDY/index.m3u8

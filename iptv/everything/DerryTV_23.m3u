@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="DerryTV23.us",DerryTV 23
+#EXTVLCOPT:network-caching=1000
+https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8

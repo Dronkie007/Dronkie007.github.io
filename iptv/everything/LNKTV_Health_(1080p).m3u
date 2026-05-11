@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="LNKTVHealth.us" tvg-logo="" group-title="Lifestyle",LNKTV Health (1080p)
+#EXTVLCOPT:network-caching=1000
+http://10tv.lincoln.ne.gov/live/live.m3u8

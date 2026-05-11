@@ -1,0 +1,3 @@
+#EXTINF:-1 group-title="Entertainment" tvg-id="American.Heroes.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" tvg-name="American Heroes Channel",American Heroes Channel
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8

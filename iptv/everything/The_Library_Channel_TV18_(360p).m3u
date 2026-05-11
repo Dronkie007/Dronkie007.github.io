@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="WYPLTV18.us",The Library Channel TV18 (360p)
+#EXTVLCOPT:network-caching=1000
+https://reflect-memphis.cablecast.tv/live-2/live/live.m3u8

@@ -1,0 +1,3 @@
+#EXTINF:-1 group-title="Documentary" tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" tvg-name="National Geographic",National Geographic
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/National_Geographic/index.m3u8

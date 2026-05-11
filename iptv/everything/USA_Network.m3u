@@ -1,0 +1,3 @@
+#EXTINF:-1 group-title="Entertainment" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-name="USA Network",USA Network
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/USA_Network/index.m3u8

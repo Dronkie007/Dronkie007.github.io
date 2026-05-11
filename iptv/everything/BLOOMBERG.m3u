@@ -1,0 +1,3 @@
+#EXTINF:-1 group-title="News" tvg-id="Bloomberg.TV.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" tvg-name="BLOOMBERG",BLOOMBERG
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/BLOOMBERG/index.m3u8

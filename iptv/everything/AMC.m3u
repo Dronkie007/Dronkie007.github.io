@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="AMC.us@EastHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC
+#EXTVLCOPT:network-caching=1000
+http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8

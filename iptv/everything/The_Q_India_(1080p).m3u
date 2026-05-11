@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="TheQIndia.us@SD" tvg-logo="https://i.imgur.com/VYrpCEN.png" group-title="Undefined",The Q India (1080p)
+#EXTVLCOPT:network-caching=1000
+https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/main.m3u8

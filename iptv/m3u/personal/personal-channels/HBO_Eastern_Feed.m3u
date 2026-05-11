@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed" group-title="Live",HBO Eastern Feed
+#EXTVLCOPT:network-caching=1000
+https://tvpass.org/live/HBOEast/sd

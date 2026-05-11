@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="WMAQDT1.us",NBC Chicago News 24/7 (1080p)
+#EXTVLCOPT:network-caching=1000
+https://nbculocalfast.akamaized.net/hls/live/2096797/nbcchicago/master.m3u8

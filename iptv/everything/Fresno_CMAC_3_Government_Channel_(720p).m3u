@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="CMAC3.us" tvg-logo="https://i.imgur.com/ToZzguz.png" group-title="Legislative",Fresno CMAC 3 Government Channel (720p)
+#EXTVLCOPT:network-caching=1000
+https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-3/live.m3u8

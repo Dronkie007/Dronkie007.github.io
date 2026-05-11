@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="AKCTV.us",AKC TV
+#EXTVLCOPT:network-caching=1000
+https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8

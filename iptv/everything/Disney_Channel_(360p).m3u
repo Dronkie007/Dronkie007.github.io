@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-logo="https://i.postimg.cc/854KwmH1/disneychannel.png" group-title="Kids",Disney Channel (360p)
+#EXTVLCOPT:network-caching=1000
+https://e5.thetvapp.to/hls/DisneyChannelEast/tracks-v2a1/mono.m3u8?

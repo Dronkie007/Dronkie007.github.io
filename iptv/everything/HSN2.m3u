@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="HSN2.us",HSN2
+#EXTVLCOPT:network-caching=1000
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8

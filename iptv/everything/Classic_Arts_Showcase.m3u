@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="ClassicArtsShowcase.us",Classic Arts Showcase
+#EXTVLCOPT:network-caching=1000
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8

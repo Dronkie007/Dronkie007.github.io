@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="MTVClassic.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png" group-title="Music",MTV Classic (360p)
+#EXTVLCOPT:network-caching=1000
+https://fl7.moveonjoy.com/MTV_CLASSIC/index.m3u8

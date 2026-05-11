@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="EBSMusika.us" tvg-logo="https://i.imgur.com/lSpplhD.png" group-title="Music",EBS Musika (720p)
+#EXTVLCOPT:network-caching=1000
+https://rpn.bozztv.com/ebstv/ebsmusika/index.m3u8

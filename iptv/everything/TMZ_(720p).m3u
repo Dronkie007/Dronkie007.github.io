@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="TMZ.us" tvg-logo="https://i.imgur.com/eLIe7Va.png" group-title="Entertainment",TMZ (720p)
+#EXTVLCOPT:network-caching=1000
+https://livetv-fa.tubi.video/tmz/index.m3u8

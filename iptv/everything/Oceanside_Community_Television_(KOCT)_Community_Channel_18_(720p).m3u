@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="KOCTChannel18.us" tvg-logo="https://i.imgur.com/6C71KwP.png" group-title="General",Oceanside Community Television (KOCT) Community Channel 18 (720p)
+#EXTVLCOPT:network-caching=1000
+https://securestream10.champds.com/LIVE/KOCTCALIVE/KOCTCALIVE.m3u8

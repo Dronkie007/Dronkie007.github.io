@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="LogosTV.us",Logos TV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://597f64b67707a.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="PositivTV.us",Positiv (720p)
+#EXTVLCOPT:network-caching=1000
+https://tbn-jw.cdn.vustreams.com/live/positivtv/live.isml/playlist.m3u8

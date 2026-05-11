@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="NTDTV.us@East",NTD TV East (New Tang Dynasty Television)
+#EXTVLCOPT:network-caching=1000
+https://ntd02.akamaized.net/NTDA/index.m3u8

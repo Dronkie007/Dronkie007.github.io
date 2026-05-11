@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="ParamountNetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Movies;Series",Paramount Network East
+#EXTVLCOPT:network-caching=1000
+https://fl7.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8

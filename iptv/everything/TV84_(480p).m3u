@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="TV84.us" tvg-logo="https://i.imgur.com/Eh4kfwR.png" group-title="Entertainment",TV84 (480p)
+#EXTVLCOPT:network-caching=1000
+https://cdn20.liveonlineservices.com/hls/tv84.m3u8

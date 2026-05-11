@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="LaoThaiTV.us",Lao-Thai TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8

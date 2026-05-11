@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="Backstage.us" tvg-logo="https://i.imgur.com/qcTNvNU.png" group-title="Documentary",Backstage [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://fuse-backstage-xumo.amagi.tv/playlist.m3u8

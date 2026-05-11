@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="WPXNDT7.us",WPXN-DT7
+#EXTVLCOPT:network-caching=1000
+http://72.46.118.193/Newsy/index.m3u8

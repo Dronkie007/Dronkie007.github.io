@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="PursuitChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/Pursuit_Channel_logo.png" group-title="Undefined",Pursuit Channel (720p)
+#EXTVLCOPT:network-caching=1000
+https://fl7.moveonjoy.com/Pursuit_Channel/index.m3u8

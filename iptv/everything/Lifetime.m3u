@@ -1,0 +1,3 @@
+#EXTINF:-1 group-title="Movies" tvg-id="Lifetime.Network.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png" tvg-name="Lifetime",Lifetime
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/LIFETIME/index.m3u8

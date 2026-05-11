@@ -1,0 +1,3 @@
+#EXTINF:-1 group-title="News" tvg-id="BBC.World.News.North.America.(BBCWN).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" tvg-name="BBC WORLD NEWS",BBC WORLD NEWS
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8

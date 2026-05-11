@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="EternalLifeTVNetwork.us",Eternal Life TV Network (1080p)
+#EXTVLCOPT:network-caching=1000
+https://livecdn.live247stream.com/eternallife/tv/playlist.m3u8

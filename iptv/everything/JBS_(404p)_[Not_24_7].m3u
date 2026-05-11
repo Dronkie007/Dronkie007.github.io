@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="JBS.us",JBS (404p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8

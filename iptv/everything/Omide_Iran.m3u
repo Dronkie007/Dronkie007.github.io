@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="OmideIranTV.us" tvg-logo="https://i.imgur.com/CeMf68L.png" group-title="Entertainment",Omide Iran
+#EXTVLCOPT:network-caching=1000
+https://oitnhls.wns.live/hls/stream.m3u8

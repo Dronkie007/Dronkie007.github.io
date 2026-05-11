@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="ESPNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/512px-ESPNews.svg.png" group-title="News;Sports",ESPNews (720p)
+#EXTVLCOPT:network-caching=1000
+https://fl7.moveonjoy.com/ESPN_NEWS/index.m3u8

@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="MohabatTV.us",Mohabat TV (540p)
+#EXTVLCOPT:network-caching=1000
+http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8

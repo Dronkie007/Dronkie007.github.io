@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="HighVisionTV.us",High Vision (1080p)
+#EXTVLCOPT:network-caching=1000
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8

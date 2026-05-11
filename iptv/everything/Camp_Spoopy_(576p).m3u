@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="CampSpoopy.us",Camp Spoopy (576p)
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269

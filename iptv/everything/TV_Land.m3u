@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="TVLand.us@East" tvg-logo="https://i.imgur.com/VNNS4mF.png" group-title="Classic",TV Land
+#EXTVLCOPT:network-caching=1000
+https://fl7.moveonjoy.com/TV_LAND/index.m3u8

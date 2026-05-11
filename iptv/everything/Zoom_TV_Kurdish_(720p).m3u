@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="ZoomNews.us" http-referrer="https://zoomnews.info/",Zoom TV Kurdish (720p)
+#EXTVLCOPT:network-caching=1000
+https://live.zoomnews.info/live/Zoom_playlist.m3u8

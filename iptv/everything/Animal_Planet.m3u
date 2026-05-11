@@ -1,0 +1,3 @@
+#EXTINF:-1 group-title="Documentary" tvg-id="Animal.Planet.US.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" tvg-name="Animal Planet",Animal Planet
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/Animal_Planet/index.m3u8

@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="Revry2.us",Revry 2
+#EXTVLCOPT:network-caching=1000
+https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8

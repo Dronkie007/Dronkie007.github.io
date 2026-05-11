@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="ITV4.uk",ITV4 (576p)
+#EXTVLCOPT:network-caching=1000
+https://x.canlitvapp.com/u-itv4/index.m3u8

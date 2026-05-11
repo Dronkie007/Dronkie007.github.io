@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="MBC1USA.us",MBC 1 USA (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mbc-1-usa-ak.akamaized.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index.m3u8

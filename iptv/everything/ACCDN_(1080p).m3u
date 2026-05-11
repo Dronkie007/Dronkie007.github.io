@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="ACCDigitalNetwork.us" tvg-logo="https://i.imgur.com/V6Kaqha.png" group-title="Sports",ACCDN (1080p)
+#EXTVLCOPT:network-caching=1000
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8

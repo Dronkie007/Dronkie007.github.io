@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="Charge.us" tvg-logo="https://i.imgur.com/1rxmu2u.png" group-title="Movies",Charge! (1080p)
+#EXTVLCOPT:network-caching=1000
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8

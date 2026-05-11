@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="BloombergTV.us@PoliticsLiveEvent",Bloomberg TV US Politics Live Event (720p)
+#EXTVLCOPT:network-caching=1000
+https://bloomberg.com/media-manifest/streams/politics.m3u8

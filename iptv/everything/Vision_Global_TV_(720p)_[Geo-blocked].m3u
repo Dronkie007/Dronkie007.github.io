@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="VisionGlobalTV.us@SD",Vision Global TV (720p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://vdopanel.jlahozconsulting.com:3407/hybrid/play.m3u8

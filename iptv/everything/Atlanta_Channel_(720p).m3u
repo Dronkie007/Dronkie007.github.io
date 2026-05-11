@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="AtlantaChannel.us" tvg-logo="https://i.imgur.com/MOGQAns.png" group-title="General",Atlanta Channel (720p)
+#EXTVLCOPT:network-caching=1000
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8

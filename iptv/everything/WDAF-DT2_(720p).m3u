@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="WDAFDT2.us" tvg-logo="https://i.imgur.com/ocs2DeU.png" group-title="Undefined",WDAF-DT2 (720p)
+#EXTVLCOPT:network-caching=1000
+https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8

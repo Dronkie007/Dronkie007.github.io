@@ -1,0 +1,3 @@
+#EXTINF:-1 group-title="Movies" tvg-id="MGM+.Drive-In.(MGM+DI).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-drive-in-us.png?raw=true" tvg-name="MGM+ Drive-In",MGM+ Drive-In
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8

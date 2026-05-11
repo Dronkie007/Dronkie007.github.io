@@ -1,0 +1,3 @@
+#EXTINF:-1 group-title="Entertainment" tvg-id="TV.One.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tv-one-id.png" tvg-name="TVOne",TVOne
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/TV_ONE/index.m3u8

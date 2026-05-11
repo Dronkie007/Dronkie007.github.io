@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="CanalAmericaTV.do@SD" tvg-logo="" group-title="General",Canal America TV (720p)
+#EXTVLCOPT:network-caching=1000
+http://newyorkstream.ddns.net:5854/enlacecanalamerica/encoderRD/playlist.m3u8

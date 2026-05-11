@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="Cinevault80s.us" tvg-logo="https://i.imgur.com/xaCyyDd.png" group-title="Movies",Cinevault 80s (540p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8

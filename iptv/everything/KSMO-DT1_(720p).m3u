@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="KSMODT1.us" tvg-logo="https://i.imgur.com/v58Froh.png" group-title="General",KSMO-DT1 (720p)
+#EXTVLCOPT:network-caching=1000
+https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8

@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="LifetimeMovies.us@East" tvg-logo="https://i.postimg.cc/RZGmYyTt/lifetimemovies.png" group-title="Movies",Lifetime Movies East
+#EXTVLCOPT:network-caching=1000
+https://fl7.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8

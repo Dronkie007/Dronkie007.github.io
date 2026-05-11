@@ -1,0 +1,3 @@
+#EXTINF:-1 group-title="Movies" tvg-id="OuterMax.east.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-outermax-us.png?raw=true" tvg-name="OUTER MAX",OUTER MAX
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/OUTER_MAX/index.m3u8

@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-logo="https://i.imgur.com/TpCkbkT.png" group-title="Sports",ACCN (720p)
+#EXTVLCOPT:network-caching=1000
+https://fl7.moveonjoy.com/ACC_NETWORK/index.m3u8

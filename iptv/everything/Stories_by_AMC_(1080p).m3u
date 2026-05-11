@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="StoriesbyAMC.us@EastHD",Stories by AMC (1080p)
+#EXTVLCOPT:network-caching=1000
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8

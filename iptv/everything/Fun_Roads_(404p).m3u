@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="FunRoads.us",Fun Roads (404p)
+#EXTVLCOPT:network-caching=1000
+http://104.143.4.5:2080/funroads.m3u8

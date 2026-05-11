@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="SportsNetNewYork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/512px-SNY_logo.svg.png" group-title="Sports",SportsNet New York (540p)
+#EXTVLCOPT:network-caching=1000
+https://fl7.moveonjoy.com/SNY/index.m3u8

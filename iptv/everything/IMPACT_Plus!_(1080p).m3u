@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="ImpactPlus.us",IMPACT Plus! (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8

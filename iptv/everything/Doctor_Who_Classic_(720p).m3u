@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="DoctorWhoClassic.us@US",Doctor Who Classic (720p)
+#EXTVLCOPT:network-caching=1000
+https://aegis-cloudfront-1.tubi.video/7e9ef0f5-4d13-4083-aa3f-9375e652a4c9/playlist.m3u8

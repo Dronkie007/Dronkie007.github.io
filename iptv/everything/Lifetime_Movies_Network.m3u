@@ -1,0 +1,3 @@
+#EXTINF:-1 group-title="Movies" tvg-id="Lifetime.Movies.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" tvg-name="Lifetime Movies Network",Lifetime Movies Network
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8

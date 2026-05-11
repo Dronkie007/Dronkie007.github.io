@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="FashionFinds.us",Fashion Finds
+#EXTVLCOPT:network-caching=1000
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8

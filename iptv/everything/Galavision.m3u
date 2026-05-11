@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="Galavision.us@East",Galavision
+#EXTVLCOPT:network-caching=1000
+http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/3793.m3u8

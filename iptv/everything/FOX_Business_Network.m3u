@@ -1,0 +1,3 @@
+#EXTINF:-1 group-title="News" tvg-id="Fox.Business.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" tvg-name="FOX Business Network",FOX Business Network
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/FOX_Business_Network/index.m3u8

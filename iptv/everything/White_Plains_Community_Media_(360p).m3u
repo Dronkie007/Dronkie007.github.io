@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="WhitePlainsCommunityMedia.us" tvg-logo="https://i.imgur.com/XGQfBbW.png" group-title="Undefined",White Plains Community Media (360p)
+#EXTVLCOPT:network-caching=1000
+https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8

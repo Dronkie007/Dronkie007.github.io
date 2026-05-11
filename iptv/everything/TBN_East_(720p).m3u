@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="TBN.us@East",TBN East (720p)
+#EXTVLCOPT:network-caching=1000
+https://d7ge95bb03xsu.cloudfront.net/out/v1/0c95a89614194912834019fc37d741ef/tbn-freecast.m3u8

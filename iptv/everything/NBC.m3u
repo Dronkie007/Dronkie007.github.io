@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="NBC.us",NBC
+#EXTVLCOPT:network-caching=1000
+https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8

@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="WFTSDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="News",WFTS-DT1
+#EXTVLCOPT:network-caching=1000
+https://fl7.moveonjoy.com/FL_Tampa_ABC/index.m3u8

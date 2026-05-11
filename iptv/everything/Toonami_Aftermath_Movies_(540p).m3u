@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="",Toonami Aftermath Movies (540p)
+#EXTVLCOPT:network-caching=1000
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8

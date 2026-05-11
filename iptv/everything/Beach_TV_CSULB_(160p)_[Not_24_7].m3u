@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="BeachTVCSULB.us",Beach TV CSULB (160p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8

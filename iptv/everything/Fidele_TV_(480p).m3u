@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="FideleTV.us" tvg-logo="https://i.ibb.co/YtBZ0Lc/FIDELE-TV.png" group-title="Entertainment",Fidele TV (480p)
+#EXTVLCOPT:network-caching=1000
+https://59d39900ebfb8.streamlock.net/FIDELETV/FIDELETV/playlist.m3u8

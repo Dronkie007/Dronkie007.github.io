@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="IGN.us" tvg-logo="https://i.imgur.com/1AcrX8T.png" group-title="Entertainment",IGN TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://ign-sportstribal.amagi.tv/playlist.m3u8

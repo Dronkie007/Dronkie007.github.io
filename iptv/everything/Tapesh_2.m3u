@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="Tapesh2.us" tvg-logo="https://i.postimg.cc/3NndCTBx/tapesh2.png" group-title="Undefined",Tapesh 2
+#EXTVLCOPT:network-caching=1000
+https://maxtvhls.wns.live/hls/stream.m3u8

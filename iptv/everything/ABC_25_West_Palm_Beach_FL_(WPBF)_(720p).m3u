@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="WPBFDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="News",ABC 25 West Palm Beach FL (WPBF) (720p)
+#EXTVLCOPT:network-caching=1000
+https://livetv-fa.tubi.video/wpbf/playlist.m3u8

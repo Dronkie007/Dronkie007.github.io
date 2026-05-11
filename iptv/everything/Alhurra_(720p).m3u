@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="Alhurra.us",Alhurra (720p)
+#EXTVLCOPT:network-caching=1000
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/merge.m3u8

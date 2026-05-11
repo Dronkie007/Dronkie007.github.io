@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="GlobalWorldTV.us",GlobalWorldTV (720p)
+#EXTVLCOPT:network-caching=1000
+https://media.streambrothers.com:1936/8052/8052/playlist.m3u8

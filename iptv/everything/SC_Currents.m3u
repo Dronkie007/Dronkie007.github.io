@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="SCCurrents.us" tvg-logo="https://i.imgur.com/8FZsNyK.png" group-title="News",SC Currents
+#EXTVLCOPT:network-caching=1000
+https://reflect-communitytv.cablecast.tv/live-5/live/stream-3/live.m3u8

@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="Lifetime.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="Entertainment",Lifetime East
+#EXTVLCOPT:network-caching=1000
+https://fl7.moveonjoy.com/LIFETIME/index.m3u8

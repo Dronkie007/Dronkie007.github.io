@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="BXArts.us",BX Arts (720p)
+#EXTVLCOPT:network-caching=1000
+https://reflect-stream-bronxnet.cablecast.tv/live-19/live/live.m3u8

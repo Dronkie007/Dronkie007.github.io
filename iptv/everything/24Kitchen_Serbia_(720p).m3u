@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="24Kitchen.us@Serbia",24Kitchen Serbia (720p)
+#EXTVLCOPT:network-caching=1000
+http://91.132.74.5:8000/play/a00a

@@ -1,0 +1,3 @@
+#EXTINF:-1 group-title="Entertainment" tvg-id="Antenna.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/antenna-us.png" tvg-name="Antenna",Antenna
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/Antenna/index.m3u8

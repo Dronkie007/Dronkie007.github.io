@@ -1,0 +1,3 @@
+#EXTINF:-1 group-title="Entertainment" tvg-id="Court.TV.US.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/court-tv-us.png?raw=true" tvg-name="COURT TV",COURT TV
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/COURT_TV/index.m3u8

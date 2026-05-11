@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="Docurama.us" tvg-logo="https://i.imgur.com/2248nxX.png" group-title="Documentary",Docurama (1080p)
+#EXTVLCOPT:network-caching=1000
+https://docurama-plex-ingest.cinedigm.com/playlist.m3u8

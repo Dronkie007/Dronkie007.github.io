@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="Oxygen.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/512px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="Entertainment",Oxygen East
+#EXTVLCOPT:network-caching=1000
+https://fl7.moveonjoy.com/OXYGEN/index.m3u8

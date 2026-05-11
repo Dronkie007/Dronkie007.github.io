@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="NBCLX.us",NBCLX
+#EXTVLCOPT:network-caching=1000
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8

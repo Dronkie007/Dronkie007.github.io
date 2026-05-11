@@ -1,0 +1,3 @@
+#EXTINF:-1 group-title="Movies" tvg-id="Showtime.2.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" tvg-name="Showtime 2",Showtime 2
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8

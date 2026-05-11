@@ -1,0 +1,3 @@
+#EXTINF:-1 group-title="Movies" tvg-id="Crave3.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-3-ca.png" tvg-name="CRAVE 3",CRAVE 3
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/CRAVE_3/index.m3u8

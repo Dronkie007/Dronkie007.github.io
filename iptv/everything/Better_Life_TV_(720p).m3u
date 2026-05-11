@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="BetterLifeTV.us",Better Life TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://tgn.bozztv.com/betterlife/betterlife/betterlife/index.m3u8

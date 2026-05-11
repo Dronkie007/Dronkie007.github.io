@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="AmericanHorrors.us",American Horrors (480p)
+#EXTVLCOPT:network-caching=1000
+http://107.167.7.162:8081/playlist/amhor/playlist.m3u8

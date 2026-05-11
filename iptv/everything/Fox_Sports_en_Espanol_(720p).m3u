@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Sports",Fox Sports en Espanol (720p)
+#EXTVLCOPT:network-caching=1000
+https://livetv-fa.tubi.video/fox-sports-espanol2/index.m3u8

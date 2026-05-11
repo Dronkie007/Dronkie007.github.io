@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="LNKTVCity.us" tvg-logo="https://i.imgur.com/mYp0VnE.png" group-title="Legislative",LNKTV City (1080p)
+#EXTVLCOPT:network-caching=1000
+http://5tv.lincoln.ne.gov/live/live.m3u8

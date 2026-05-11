@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="MaverickBlackCinema.us" tvg-logo="https://images.fubo.tv/station_logos/maverick_black_cinema_c.png" group-title="Movies",Maverick Black Cinema (1080p)
+#EXTVLCOPT:network-caching=1000
+https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8

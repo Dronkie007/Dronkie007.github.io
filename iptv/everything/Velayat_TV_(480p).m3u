@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="VelayatTVNetwork.us",Velayat TV (480p)
+#EXTVLCOPT:network-caching=1000
+https://nl.livekadeh.com/hls2/velayattv.m3u8

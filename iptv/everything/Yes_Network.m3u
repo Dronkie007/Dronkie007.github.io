@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="YesNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/330px-YES_Network_logo.svg.png" group-title="Undefined",Yes Network
+#EXTVLCOPT:network-caching=1000
+https://fl7.moveonjoy.com/YES_NETWORK/index.m3u8

@@ -1,0 +1,3 @@
+#EXTINF:-1 group-title="Movies" tvg-id="Starz.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" tvg-name="Starz",Starz
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/STARZ/index.m3u8

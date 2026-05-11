@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="RadioTelePrince.us" tvg-logo="https://i.ibb.co/BCr6LVN/radio-tele-prince-fm-logo.png" group-title="General",Radio Télé Prince (480p)
+#EXTVLCOPT:network-caching=1000
+https://59d39900ebfb8.streamlock.net/radioteleprince/radioteleprince/playlist.m3u8

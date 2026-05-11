@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="Showtime2.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png" group-title="Undefined",Showtime 2 East
+#EXTVLCOPT:network-caching=1000
+https://fl7.moveonjoy.com/SHOWTIME_2/index.m3u8

@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="WBALDT1.us" tvg-logo="" group-title="Undefined",NBC 11 Baltimore MD (WBAL) (720p)
+#EXTVLCOPT:network-caching=1000
+https://livetv-fa.tubi.video/wbal/playlist.m3u8

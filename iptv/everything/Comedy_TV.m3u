@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="ComedyTV.us",Comedy TV
+#EXTVLCOPT:network-caching=1000
+https://fl3.moveonjoy.com/Comedy_TV/index.m3u8

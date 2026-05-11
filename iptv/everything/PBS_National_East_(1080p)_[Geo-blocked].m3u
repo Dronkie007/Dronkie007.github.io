@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="PBS.us@East" tvg-logo="https://i.postimg.cc/ZnL6G6KV/pbs.png" group-title="Education",PBS National East (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://pbs.lls.cdn.pbs.org/est/index.m3u8

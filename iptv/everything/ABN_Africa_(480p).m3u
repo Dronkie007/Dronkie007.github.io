@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="ABNAfrica.us",ABN Africa (480p)
+#EXTVLCOPT:network-caching=1000
+https://mediaserver.abnvideos.com/streams/abnafrica.m3u8

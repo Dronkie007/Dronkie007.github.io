@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="AccessSacramentoChannel18.us" tvg-logo="https://i.imgur.com/0pbtcvp.png" group-title="General",Access Sacramento Channel 18
+#EXTVLCOPT:network-caching=1000
+https://reflect-access-sacramento.cablecast.tv/live-8/live/live.m3u8

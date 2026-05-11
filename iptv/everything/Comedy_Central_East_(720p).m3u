@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="ComedyCentral.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="Comedy",Comedy Central East (720p)
+#EXTVLCOPT:network-caching=1000
+https://fl7.moveonjoy.com/Comedy_Central/index.m3u8

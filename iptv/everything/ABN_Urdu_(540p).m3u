@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="ABNUrdu.us",ABN Urdu (540p)
+#EXTVLCOPT:network-caching=1000
+https://mediaserver.abnvideos.com/streams/abnurdu.m3u8

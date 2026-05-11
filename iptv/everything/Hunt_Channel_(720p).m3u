@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="HuntChannel.us" tvg-logo="https://i.imgur.com/uhEn9SF.png" group-title="Outdoor",Hunt Channel (720p)
+#EXTVLCOPT:network-caching=1000
+https://a-cdn.klowdtv.com/live2/huntchannel_720p/playlist.m3u8

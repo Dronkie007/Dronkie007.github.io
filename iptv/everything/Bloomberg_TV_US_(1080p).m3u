@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV US (1080p)
+#EXTVLCOPT:network-caching=1000
+https://bloomberg-bloomberg-3-br.samsung.wurl.tv/manifest/playlist.m3u8

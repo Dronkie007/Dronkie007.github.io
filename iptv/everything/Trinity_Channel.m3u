@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="TrinityChannel.us",Trinity Channel
+#EXTVLCOPT:network-caching=1000
+https://edge66.magictvbox.com/liveApple/trinity/tracks-v1a1/mono.m3u8

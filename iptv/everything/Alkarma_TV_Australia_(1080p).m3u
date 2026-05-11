@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="AlkarmaTVAustralia.us",Alkarma TV Australia (1080p)
+#EXTVLCOPT:network-caching=1000
+https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8

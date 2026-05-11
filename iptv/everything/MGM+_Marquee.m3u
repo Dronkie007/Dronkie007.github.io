@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="MGMPlusMarquee.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/512px-MGM%2B_Marquee_2023.svg.png" group-title="Movies",MGM+ Marquee
+#EXTVLCOPT:network-caching=1000
+https://fl7.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8

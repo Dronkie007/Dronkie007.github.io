@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="KOCODT1.us" tvg-logo="" group-title="General",ABC 5 Oklahoma City OK (KOCO) (720p)
+#EXTVLCOPT:network-caching=1000
+https://livetv-fa.tubi.video/koco/playlist.m3u8

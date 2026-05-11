@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="FoxWeather.us",Fox Weather (720p)
+#EXTVLCOPT:network-caching=1000
+https://247wlive.foxweather.com/stream/index.m3u8

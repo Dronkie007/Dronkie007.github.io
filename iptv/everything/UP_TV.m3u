@@ -1,0 +1,3 @@
+#EXTINF:-1 group-title="Movies" tvg-id="UP.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/up-tv-us.png" tvg-name="UP TV",UP TV
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/Up_Tv/index.m3u8

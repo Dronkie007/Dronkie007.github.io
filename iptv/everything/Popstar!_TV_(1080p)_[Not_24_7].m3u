@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="PopstarTV.us" tvg-logo="https://i.imgur.com/d4xEiXX.png" group-title="Entertainment",Popstar! TV (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="Sports",Fubo Sports Network (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://livetv-fa.tubi.video/fubo/master.m3u8

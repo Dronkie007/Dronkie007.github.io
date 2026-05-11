@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="fx-movie-channel" tvg-name="FX Movie Channel" group-title="Live",FX Movie Channel
+#EXTVLCOPT:network-caching=1000
+https://tvpass.org/live/FXMovieChannel/sd

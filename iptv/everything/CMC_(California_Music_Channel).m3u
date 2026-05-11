@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="CaliforniaMusicChannel.us",CMC (California Music Channel)
+#EXTVLCOPT:network-caching=1000
+https://cmc-ono.amagi.tv/playlist.m3u8

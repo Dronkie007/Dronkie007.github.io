@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="NagoTV.us",Nago TV (240p)
+#EXTVLCOPT:network-caching=1000
+https://lakay.online/public/nagotv/index.fmp4.m3u8

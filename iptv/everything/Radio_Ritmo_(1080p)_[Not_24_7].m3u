@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="RadioRitmoFM.cl",Radio Ritmo (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8

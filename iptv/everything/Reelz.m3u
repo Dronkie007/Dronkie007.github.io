@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="Reelz.us",Reelz
+#EXTVLCOPT:network-caching=1000
+https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="BBCAmerica.us",BBC America
+#EXTVLCOPT:network-caching=1000
+https://dvrfl04.tulix.tv/teleup-bbca/index.m3u8

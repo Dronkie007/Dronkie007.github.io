@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="USATODAY.us" tvg-logo="https://i.imgur.com/37K0AZX.png" group-title="News",USA Today News [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://usatodaynews-xumo.amagi.tv/playlist.m3u8

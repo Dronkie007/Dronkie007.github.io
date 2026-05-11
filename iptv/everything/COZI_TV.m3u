@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="CoziTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/512px-Cozi_TV_logo.svg.png" group-title="Entertainment",Cozi TV
+#EXTVLCOPT:network-caching=1000
+https://fl7.moveonjoy.com/COZI_TV/index.m3u8

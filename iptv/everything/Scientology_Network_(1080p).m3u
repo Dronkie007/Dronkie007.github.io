@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="ScientologyNetwork.us",Scientology Network (1080p)
+#EXTVLCOPT:network-caching=1000
+https://stream6.scientology.org/master.m3u8

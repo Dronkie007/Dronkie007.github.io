@@ -1,0 +1,3 @@
+#EXTINF:-1 group-title="Entertainment" tvg-id="FUSE.TV.-.Eastern.feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" tvg-name="Fuse",Fuse
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/FUSE/index.m3u8

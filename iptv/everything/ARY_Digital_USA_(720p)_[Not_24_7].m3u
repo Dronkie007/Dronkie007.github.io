@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="ARYDigital.pk@USA" tvg-logo="https://i.imgur.com/TVP7g03.png" group-title="General" http-referrer="https://live.arydigital.tv/",ARY Digital USA (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://6zklx4wryw9b-hls-live.5centscdn.com/arydigitalusa/498f1704b692c3ad4dbfdf5ba5d04536.sdp/playlist.m3u8

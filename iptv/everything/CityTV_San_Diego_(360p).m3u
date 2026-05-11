@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="CityTVSanDiego.us" tvg-logo="https://i.imgur.com/OfNV6I7.png" group-title="Legislative",CityTV San Diego (360p)
+#EXTVLCOPT:network-caching=1000
+https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTINF:-1 group-title="Documentary" tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" tvg-name="Discovery Channel",Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8

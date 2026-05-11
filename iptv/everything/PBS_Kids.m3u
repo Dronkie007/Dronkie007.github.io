@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="PBSKids.us",PBS Kids
+#EXTVLCOPT:network-caching=1000
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8

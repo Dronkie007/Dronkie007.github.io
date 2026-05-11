@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="SamsungMovieSphere.us" tvg-logo="" group-title="Movies",MovieSphere (1080p)
+#EXTVLCOPT:network-caching=1000
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8

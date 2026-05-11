@@ -1,0 +1,3 @@
+#EXTINF:-1 group-title="Documentary" tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/world-fishing-network-us.png?raw=true" tvg-name="WORLD FISHING NETWORK",WORLD FISHING NETWORK
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8

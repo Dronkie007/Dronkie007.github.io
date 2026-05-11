@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="CatholicTV.us",Catholic TV
+#EXTVLCOPT:network-caching=1000
+https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8

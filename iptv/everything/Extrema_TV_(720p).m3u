@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="ExtremaTV.us",Extrema TV (720p)
+#EXTVLCOPT:network-caching=1000
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8

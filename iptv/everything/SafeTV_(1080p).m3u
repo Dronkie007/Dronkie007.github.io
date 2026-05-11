@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="SafeTV.us",SafeTV (1080p)
+#EXTVLCOPT:network-caching=1000
+http://18.191.91.130:1935/live/safetv/playlist.m3u8

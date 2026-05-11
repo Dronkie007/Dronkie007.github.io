@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="KFTRDT1.us@SD",KFTR-DT1 [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8

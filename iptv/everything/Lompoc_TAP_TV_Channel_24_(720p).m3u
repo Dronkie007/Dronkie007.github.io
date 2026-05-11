@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="TAPTVChannel24.us" tvg-logo="https://i.imgur.com/5mhYHtD.png" group-title="General",Lompoc TAP TV Channel 24 (720p)
+#EXTVLCOPT:network-caching=1000
+https://livestream.telvue.com/lompoccmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8

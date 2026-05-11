@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="30ATelevisionChannel.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTHiYfIB01K44LIBG81aEGAmDuIWw8MA0f2w&s" group-title="Entertainment",30A Television Channel
+#EXTVLCOPT:network-caching=1000
+https://30a-tv.com/feeds/masters/30atv.m3u8

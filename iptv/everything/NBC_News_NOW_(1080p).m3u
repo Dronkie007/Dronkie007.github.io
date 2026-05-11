@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="News",NBC News NOW (1080p)
+#EXTVLCOPT:network-caching=1000
+https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8

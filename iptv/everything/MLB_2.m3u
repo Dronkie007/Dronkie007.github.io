@@ -1,0 +1,3 @@
+#EXTINF:-1 group-title="Events" tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" tvg-name="MLB 2",MLB 2
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/MLB_2/index.m3u8

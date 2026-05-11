@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="Portlandia.us" tvg-logo="https://i.imgur.com/I4KDvu9.png" group-title="Undefined",Portlandia
+#EXTVLCOPT:network-caching=1000
+https://amc-portlandia-1-us.xumo.wurl.tv/playlist.m3u8

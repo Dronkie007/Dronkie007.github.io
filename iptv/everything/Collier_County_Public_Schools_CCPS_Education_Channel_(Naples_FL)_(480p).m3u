@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="CCPSEducationChannel.us" tvg-logo="https://i.imgur.com/62S7dI8.png" group-title="Education",Collier County Public Schools CCPS Education Channel (Naples FL) (480p)
+#EXTVLCOPT:network-caching=1000
+https://watch.collierschools.com/EducationChannel/educhannel.stream/playlist.m3u8

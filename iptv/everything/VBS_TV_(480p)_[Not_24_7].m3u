@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="VBSTV.us",VBS TV (480p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8

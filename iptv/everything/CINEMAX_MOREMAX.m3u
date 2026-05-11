@@ -1,0 +1,3 @@
+#EXTINF:-1 group-title="Movies" tvg-id="MoreMax..Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" tvg-name="CINEMAX MOREMAX",CINEMAX MOREMAX
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8

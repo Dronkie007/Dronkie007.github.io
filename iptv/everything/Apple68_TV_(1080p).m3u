@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="Apple68TV.us" tvg-logo="https://i.imgur.com/xQct5s2.jpg" group-title="Entertainment",Apple68 TV (1080p)
+#EXTVLCOPT:network-caching=1000
+http://doxatv.flashmediacast.com:1935/doxatv/livestream/playlist.m3u8

@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="PopTV.us" tvg-logo="https://i.imgur.com/XySNnh0.png" group-title="Entertainment",Pop TV
+#EXTVLCOPT:network-caching=1000
+https://fl7.moveonjoy.com/Pop_TV/index.m3u8

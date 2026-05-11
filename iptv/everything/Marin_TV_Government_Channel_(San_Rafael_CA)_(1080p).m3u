@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="MarinTVGovernmentChannel.us" tvg-logo="https://i.imgur.com/HsBBu8g.png" group-title="Legislative",Marin TV Government Channel (San Rafael CA) (1080p)
+#EXTVLCOPT:network-caching=1000
+http://96.68.164.217/live-14/live/live.m3u8

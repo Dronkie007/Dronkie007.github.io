@@ -1,0 +1,3 @@
+#EXTINF:-1 group-title="Documentary" tvg-id="Travel.US.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" tvg-name="Travel Channel",Travel Channel
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/Travel_Channel/index.m3u8

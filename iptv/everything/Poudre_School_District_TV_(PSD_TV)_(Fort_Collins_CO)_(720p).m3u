@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="PSDTV.us" tvg-logo="https://i.imgur.com/djT0Q8q.png" group-title="Education",Poudre School District TV (PSD TV) (Fort Collins CO) (720p)
+#EXTVLCOPT:network-caching=1000
+https://reflect-broadcast-psdschools.cablecast.tv/live-6/live/live.m3u8

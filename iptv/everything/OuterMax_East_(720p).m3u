@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="OuterMax.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/OuterMax_Logo.svg/512px-OuterMax_Logo.svg.png" group-title="Movies",OuterMax East (720p)
+#EXTVLCOPT:network-caching=1000
+https://fl7.moveonjoy.com/OUTER_MAX/index.m3u8

@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="AlhurraIraq.us",Alhurra Iraq (720p)
+#EXTVLCOPT:network-caching=1000
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8

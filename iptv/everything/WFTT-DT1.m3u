@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="WFTTDT1.us" tvg-logo="https://i.imgur.com/8zw3Xbd.png" group-title="Undefined",WFTT-DT1
+#EXTVLCOPT:network-caching=1000
+https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8

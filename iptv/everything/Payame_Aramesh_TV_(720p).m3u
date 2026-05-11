@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="PayameArameshTV.us",Payame Aramesh TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://hls.keshishhamid.live/hls/stream.m3u8

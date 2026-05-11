@@ -1,0 +1,3 @@
+#EXTINF:-1 group-title="Movies" tvg-id="Showtime.Women.HD.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" tvg-name="Showtime Women",Showtime Women
+#EXTVLCOPT:network-caching=1000
+http://fl3.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8

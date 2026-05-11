@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="BET.us@East" tvg-logo="https://i.imgur.com/copIbc9.png" group-title="Undefined",BET East
+#EXTVLCOPT:network-caching=1000
+https://fl7.moveonjoy.com/BET_EAST/index.m3u8

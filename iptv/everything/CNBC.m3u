@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="CNBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png" group-title="Business",CNBC
+#EXTVLCOPT:network-caching=1000
+https://fl7.moveonjoy.com/CNBC/index.m3u8

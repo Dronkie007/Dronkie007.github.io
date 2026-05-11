@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-id="TheUltimateMusicChannel.us",The Ultimate Music Channel (1080p)
+#EXTVLCOPT:network-caching=1000
+https://app.viloud.tv/hls/channel/0694b92d093cc2bd5438ff9bbccaf1a2.m3u8
